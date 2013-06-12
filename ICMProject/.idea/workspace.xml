@@ -285,7 +285,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="options.lastSelected" value="settings.github" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Aptana Studio 3 Workspace/.metadata/.plugins/com.aptana.portablegit.win32/git-cmd.bat" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
@@ -423,12 +423,12 @@
       <changelist id="d3792352-6ebe-4187-b58d-8be349a746ce" name="Default" comment="" />
       <created>1371070737291</created>
       <updated>1371070737291</updated>
-      <workItem from="1371070783971" duration="1377000" />
+      <workItem from="1371070783971" duration="1467000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1377000" />
+    <option name="totallyTimeSpent" value="1467000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
