@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name" >ICM
+    <string name="app_name">Practica 1</string>
+    <string name="action_settings" >Configuración
     </string>
-    <string name="action_settings" >Settings
+    <string name="txtPeso" >Introduzca su peso(kg)
     </string>
-    <string name="hello_world" >Hello world!
-    </string>
+    <string name="txtAltura">Introduzca su altura(cm)</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="txtICM">Tu ICM es: </string>
 
 </resources>
