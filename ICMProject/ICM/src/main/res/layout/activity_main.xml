@@ -13,4 +13,10 @@
         android:layout_height="wrap_content"
         android:text="Hola mundo prueba para git" />
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Esta es la prueba desde windows 7"/>
+
+
 </RelativeLayout>
